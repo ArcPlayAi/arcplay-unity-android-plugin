@@ -1,0 +1,12 @@
+{
+  "name": "com.arcplay.unity",
+  "version": "1.0.0",
+  "displayName": "ArcPlay Unity Plugin",
+  "description": "Unity plugin that wraps the ArcPlay Android SDK",
+  "unity": "2021.3",
+  "keywords": [
+    "arcplay",
+    "android",
+    "plugin"
+  ]
+}
