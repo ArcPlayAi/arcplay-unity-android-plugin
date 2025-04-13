@@ -1,0 +1,19 @@
+{
+  "name": "com.arcplay.plugin",
+  "version": "1.0.0",
+  "displayName": "ArcPlay Plugin for Unity",
+  "description": "The ArcPlay package allows you to easily monetize your Unity apps for Android via a unified C# API in Unity.",
+  "unity": "2021.3",
+  "author": {
+    "name": "ArcPlay.ai",
+    "email": "hello@arcplay.ai",
+    "url": "https://arcplay.ai/"
+  },
+  "keywords": [
+    "arcplay",
+    "android",
+    "plugin",
+    "sdk"
+  ],
+  "documentationUrl": "https://arcplay-ai.gitbook.io/knowledge-portal/for-consumer-apps/instant-games/engineering-team/sdk-integration/unity"
+}

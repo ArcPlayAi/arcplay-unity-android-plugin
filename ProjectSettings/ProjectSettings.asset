@@ -143,8 +143,6 @@ PlayerSettings:
   bundleVersion: 1.0.2
   preloadedAssets:
   - {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  - {fileID: 3415325912365113156, guid: 3c2728064e483016b9b4baf1142ee704, type: 2}
-  - {fileID: 11400000, guid: 3e706cafd10b6730ab98f6397e722183, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -817,10 +815,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: e11a01a5-9e1a-4aba-952a-689c4ae4f660
+  cloudProjectId: b0d02af7-4905-453a-a18f-156d5059c8c0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: UnityPlugin
+  projectName: arcplay-unity-android-plugin
   organizationId: avi_arcplayai
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
