@@ -10,7 +10,7 @@
       "url": "https://unity.packages.applovin.com"
     },
     "com.arcplay.plugin": {
-      "version": "file:com.arcplay.unity",
+      "version": "file:com.arcplay.plugin",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
